@@ -14,7 +14,3 @@ EDA of 12K ad impressions, identifying cost drivers and revenue opportunities.
 Classification models predicting cancellations on 70K+ transactions (77% accuracy).  
 **Tech**: R | Decision Trees, Logistic Regression
 
-## 🛠️ Utilities
-
-### [Reverse PDF](./utilities/ReversePDF/)
-Python utility to reverse PDF page order.
