@@ -92,13 +92,6 @@ Seasonal trends influence both **CTR and costs**, emphasizing the importance of 
 
 This notebook is ready to execute in Google Colab with no additional setup required.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/utdabi/[YOUR-REPO-NAME]/blob/main/Digital_Advertisement_Analytics_Python.ipynb)
-
-**Instructions**:
-1. Click the "Open in Colab" badge above
-2. Run all cells sequentially (Runtime → Run all)
-3. All visualizations and outputs will render automatically
-
 ---
 
 ## 📊 Analysis Highlights
@@ -118,25 +111,6 @@ This notebook is ready to execute in Google Colab with no additional setup requi
 - Highlighted format mix opportunities through comparative analysis
 - Demonstrated seasonal patterns affecting CTR
 
----
-
-## 💼 Business Value
-
-This analysis delivers actionable insights for:
-- **Product Teams**: Prioritize Native (InApp) ad development
-- **Sales Teams**: Focus expansion efforts on Finance and Travel verticals
-- **Campaign Managers**: Optimize seasonal timing for launches
-- **Platform Strategy**: Modernize format mix to align with revenue data
-
----
-
-## 🔮 Future Enhancements
-
-- **Predictive Modeling**: Build regression models to forecast ad revenue by format
-- **A/B Testing Framework**: Design experiments to validate Native ad performance
-- **Real-time Dashboards**: Create interactive visualizations for ongoing monitoring
-- **Segmentation Analysis**: Cluster advertisers by behavior patterns
-- **Attribution Modeling**: Analyze multi-touch attribution across campaigns
 
 ---
 
