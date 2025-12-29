@@ -10,7 +10,8 @@ EDA of 12K ad impressions, identifying cost drivers and revenue opportunities.
 
 ## 🎯 Predictive Modeling
 
-### [Hotel Booking Cancellation](./predictive-modeling/Hotel_Booking_R/) (Coming Soon)
-Classification models predicting cancellations on 70K+ transactions (77% accuracy).  
-**Tech**: R | Decision Trees, Logistic Regression
+### [Hotel Booking Cancellation](./predictive-modeling/Hotel_Booking_R/)
+Built **decision tree and logistic regression models** to predict booking cancellations using real transactional data from a **city hotel's booking system in Lisbon, Portugal** (76,730 bookings, 21 features), achieving 77% accuracy.
+
+**Tech**: R | Binary Classification, EDA, Feature Engineering
 
