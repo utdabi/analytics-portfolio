@@ -4,8 +4,8 @@ Binary classification project predicting which hotel reservations will be cancel
 
 ## Data Scope
 
-- **Dataset**: *Hotel Booking Demand Datasets* (Data in Brief, Antonio et al., 2019) [web:36][web:46]
-- **Origin**: Actual transactional data from **hotel Property Management System (PMS)** [web:46]
+- **Dataset**: *Hotel Booking Demand Datasets* (Data in Brief, Antonio et al., 2019)
+- **Origin**: Actual transactional data from **hotel Property Management System (PMS)**
 - **Hotels**: City hotel (Lisbon) and Resort hotel (Algarve region), Portugal
 - **Analysis focus**: **City hotel (Lisbon) only**
 - **Observations**: **76,730 bookings** from the hotel's booking system
@@ -31,13 +31,12 @@ Binary classification project predicting which hotel reservations will be cancel
 
 - **Language**: R  
 - **Libraries**: `Hmisc`, `rpart`, `ggplot2` 
-- **Methods**: cross-sectional EDA,Logistic regression, Decision tree, model comparison 
+- **Methods**: Cross-sectional EDA, Logistic regression, Decision tree, model comparison 
 
 ## Notebook
 
 The full analysis is in:
 
 `Hotel_Booking_Cancellation_R.ipynb`
-
 
 **Data Citation**: Antonio, N., Almeida, A., & Nunes, L. (2019). Hotel booking demand datasets. *Data in Brief*, 22, 41-49.
