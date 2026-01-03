@@ -15,9 +15,6 @@ Built decision tree and logistic regression models to predict booking cancellati
 
 **Tech**: R | Binary Classification, EDA, Feature Engineering
 
-
----
-
 ## 🔧 Data Engineering
 
 ### [Insider Trading API to MySQL](./data-engineering/insider-trading-api-to-mysql/)
