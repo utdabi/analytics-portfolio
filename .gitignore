@@ -8,7 +8,6 @@ data-engineering/insider-trading-api-to-mysql/requirements.txt
 data-engineering/insider-trading-api-to-mysql/Data Visualization.pbix
 data-engineering/insider-trading-api-to-mysql/mysqlw3_insider_transactions.pbids
 data-engineering/insider-trading-api-to-mysql/SETUP.md
-data-engineering/insider-trading-api-to-mysql/Archive/main.ipynb
 
 
 # Python
@@ -82,4 +81,3 @@ data-engineering/insider-trading-api-to-mysql/Archive/database.py
 data-engineering/insider-trading-api-to-mysql/Archive/pipeline_logger.py
 data-engineering/insider-trading-api-to-mysql/Archive/finnhub_client.py
 data-engineering/insider-trading-api-to-mysql/Archive/validators.py
-data-engineering/insider-trading-api-to-mysql/
