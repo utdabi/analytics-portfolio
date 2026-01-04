@@ -77,3 +77,8 @@ temp/
 exploratory-analysis/Digital_Advertisement_Python/data.csv
 analytics-portfolio.code-workspace
 exploratory-analysis/Digital_Advertisement_Python/AdAnalyticpkl638200305.dat
+data-engineering/insider-trading-api-to-mysql/Archive/data_pipeline.py
+data-engineering/insider-trading-api-to-mysql/Archive/database.py
+data-engineering/insider-trading-api-to-mysql/Archive/pipeline_logger.py
+data-engineering/insider-trading-api-to-mysql/Archive/finnhub_client.py
+data-engineering/insider-trading-api-to-mysql/Archive/validators.py
