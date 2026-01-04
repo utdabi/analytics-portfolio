@@ -1,6 +1,6 @@
 predictive-modeling/Hotel_Booking_R/hotel/
 predictive-modeling/Hotel_Booking_R/hotel_bookings.csv
-nlp/clinical-text-classification
+nlp/*
 data-engineering/insider-trading-api-to-mysql/Chat.docx
 data-engineering/insider-trading-api-to-mysql/Cline.docx
 data-engineering/insider-trading-api-to-mysql/rejected_transactions.csv
@@ -9,3 +9,71 @@ data-engineering/insider-trading-api-to-mysql/Data Visualization.pbix
 data-engineering/insider-trading-api-to-mysql/mysqlw3_insider_transactions.pbids
 data-engineering/insider-trading-api-to-mysql/SETUP.md
 data-engineering/insider-trading-api-to-mysql/Archive/main.ipynb
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Environment variables 
+.env
+.env.local
+secrets.json
+credentials.json
+
+# Pipeline artifacts
+preprocessing_pipeline.pkl
+*.pkl
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Colab
+.colab/
+exploratory-analysis/Digital_Advertisement_Python/data.csv
+analytics-portfolio.code-workspace
+exploratory-analysis/Digital_Advertisement_Python/AdAnalyticpkl638200305.dat
