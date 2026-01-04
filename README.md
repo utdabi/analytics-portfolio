@@ -18,13 +18,11 @@ Built decision tree and logistic regression models to predict booking cancellati
 ## 🔧 Data Engineering
 
 ### [Insider Trading API to MySQL](./data-engineering/insider-trading-api-to-mysql/)
-Automated ETL pipeline that extracts insider trading data from Finnhub API for the "Magnificent 10" tech stocks, applies 4-stage data cleaning and validation, and loads into Azure MySQL star schema database.
+An ETL pipeline that extracts insider trading data from the Finnhub API, transforms and validates it, and loads it into an Azure MySQL database for analytics.
 
 **Features**:
 - Rate-limited API client (60 calls/min)
-- Multi-stage data pipeline (clean → normalize → engineer → ML)
 - Data quality validation with rejection logging
-- Scikit-learn imputation with pipeline persistence
-- Historical load (24 months) + incremental daily updates
+- Historical load (24 months) + incremental manual updates
 
-**Tech**: Python, MySQL, Google Colab | pandas, scikit-learn, mysql-connector
+**Tech**: Python, MySQL, Google Colab
