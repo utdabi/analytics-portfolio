@@ -81,4 +81,4 @@ data-engineering/insider-trading-api-to-mysql/Archive/database.py
 data-engineering/insider-trading-api-to-mysql/Archive/pipeline_logger.py
 data-engineering/insider-trading-api-to-mysql/Archive/finnhub_client.py
 data-engineering/insider-trading-api-to-mysql/Archive/validators.py
-exploratory-analysis/Digital_Advertisement_Python/
+exploratory-analysis/Digital_Advertisement_Python/.clinerules/
